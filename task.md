@@ -1,7 +1,5 @@
 # Take home task
 
-For all queries, email `ollie+ai_takehome_<insert your name here>@matta.ai`. If your name were to be `Matt Alabs` you would email `ollie+ai_takehome_Matt_Alabs@matta.ai`
-
 
 ## Prerequisites:
 - task data provided at `https://drive.google.com/file/d/1q8yptXngkLzJ7bBmzUyKOw-lH7w79G0R/view?usp=sharing`
@@ -19,3 +17,6 @@ Email your report as a total_count_<your estimated count here>.png file.
 There are no hard rules. You can use AI to help you code, do the end to end task yourself, or otherwise use any method for any part of this.
 
 From date of sharing, you have 2 weeks to complete the ML task, complete your writeup and email results.
+
+## Email:
+For all queries, email `ollie+ai_takehome_<insert your name here>@matta.ai`. If your name were to be `Matt Alabs` you would email `ollie+ai_takehome_Matt_Alabs@matta.ai`
