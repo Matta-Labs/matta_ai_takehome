@@ -11,7 +11,11 @@ In `assets/raw.jpg` there is an image of a cat. There is an annotated version of
 Produce a brief report on your method and key pipeline design decisions - max 2 pages with maximum 500 words (no limit on photos / diagrams within those 2 pages). 
 
 ## Submission: 
-Email your report as a total_count_<your estimated count here>.png file. 
+Email your report as a `total_count_<your estimated count here>.png` file. 
+
+Create a branch with your code under `attempt_<your name here>`
+
+High quality submissions will be followed up with a 30 minute review interview.
 
 ## Rules: 
 There are no hard rules. You can use AI to help you code, do the end to end task yourself, or otherwise use any method for any part of this.
